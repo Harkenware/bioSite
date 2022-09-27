@@ -23,9 +23,6 @@ image-gallery {
   background-color: coral;
   overflow: hidden;
 }
-image{
-  height:200
-  width:200
 .navbar a {
   float: left;
   display: block;
