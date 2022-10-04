@@ -23,6 +23,9 @@ image-gallery {
   background-color: coral;
   overflow: hidden;
 }
+figcaption {
+  float: center
+}
 .navbar a {
   float: left;
   display: block;
